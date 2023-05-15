@@ -1,0 +1,15 @@
+/workspaces/csharp-data-structures/bin/Debug/net7.0/csharp-data-structures
+/workspaces/csharp-data-structures/bin/Debug/net7.0/csharp-data-structures.deps.json
+/workspaces/csharp-data-structures/bin/Debug/net7.0/csharp-data-structures.runtimeconfig.json
+/workspaces/csharp-data-structures/bin/Debug/net7.0/csharp-data-structures.dll
+/workspaces/csharp-data-structures/bin/Debug/net7.0/csharp-data-structures.pdb
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.csproj.AssemblyReference.cache
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.AssemblyInfoInputs.cache
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.AssemblyInfo.cs
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.csproj.CoreCompileInputs.cache
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.dll
+/workspaces/csharp-data-structures/obj/Debug/net7.0/refint/csharp-data-structures.dll
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.pdb
+/workspaces/csharp-data-structures/obj/Debug/net7.0/csharp-data-structures.genruntimeconfig.cache
+/workspaces/csharp-data-structures/obj/Debug/net7.0/ref/csharp-data-structures.dll
