@@ -6,6 +6,7 @@ class Program
   // of our application. Ie. all the logic inside
   // will be executed when we run our program
   static void Main() {
+
     Console.WriteLine("Starting Program");
 
     // Classes are just blueprints for logic.
@@ -31,6 +32,8 @@ class Program
 class Person
 {
   // Private member (variable)
+  // The private keyword means this is
+  // only accessible within this class
   // We are only declaring it here
   // (ie. not setting it to a specific value)
   private string name;
@@ -46,6 +49,8 @@ class Person
 
   // A method that uses the private member and printing the
   // name to the console
+  // The public keyword means we have access to this in
+  // all the instances of this class
   public void SayName() {
     Console.WriteLine($"My name is {name}");
   }
